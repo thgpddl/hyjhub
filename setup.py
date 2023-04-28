@@ -26,7 +26,7 @@ setuptools.setup(
     description="a demo coehun",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/thgpddl",
+    url="https://github.com/thgpddl/hyjhub",
     packages=setuptools.find_packages(),
     license="Apache 2.0",
     classifiers=[
