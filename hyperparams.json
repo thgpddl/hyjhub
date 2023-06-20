@@ -1,0 +1,14 @@
+{
+  "epochs": 200,
+  "batch_size": 32,
+  "num_workers": 2,
+
+  "seed": 0,
+  "name": "test",
+  "arch": "Resnet18",
+
+  "lr": 0.02,
+  "opti": "Adam",
+
+  "save_checkpoint_interval": "best"
+}

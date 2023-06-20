@@ -1,0 +1,6 @@
+{
+  "label_name":["cat","dog"],
+  "train_set": {"xxx/cat/1.jpg": 0, "xxx/cat/2.jpg": 0, "xxx/cat/3.jpg": 0, "xxx/dog/4.jpg": 1, "xxx/dog/5.jpg": 1, "xxx/cat/6.jpg": 0},
+  "val_set": {"xxx/dog/11.jpg": 1, "xxx/cat/25.jpg": 0, "xxx/cat/38.jpg": 0},
+  "test_set": {"xxx/cat/41.jpg": 0, "xxx/dog/55.jpg": 1, "xxx/cat/63.jpg": 0}
+}
